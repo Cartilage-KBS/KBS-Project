@@ -39,6 +39,5 @@ Handling Categorical Data: Some Categorical column values such as '(not set)', '
 Normalization: Some Numerical columns should be normalized to bring all the attributes on the same scale using Min-Max Normalization to avoid  dilution in effectiveness of an equally important attribute on lower scale because of other attribute having values on larger scale. 
 
 Tentative plan for Analysis on GCP:
-We will use PySpark for pre-processing the dataset and BigQuery ML to build models for Multiple Linear Regression, K-Nearest Neighbours and Random Forest Regression. After evaluating the results on those models, we will select the model which is more accurate. We will use Visual Studio on GCP to do Exploratory Data Analysis and build Dashboards.
-
+We will use PySpark and Jupyter notebook for pre-processing and showing analysis on the dataset. We will use BigQuery ML to build models for Multiple Linear Regression, K-Nearest Neighbours and Random Forest Regression. After evaluating the results on those models, we will select the model which is more accurate. We will use Visual Studio on GCP to do Exploratory Data Analysis and build Dashboards. 
 
