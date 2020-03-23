@@ -2,6 +2,11 @@
 
 Group Name - Cartilage
 
+Members:
+Vamsi Pogula - vpogula@uncc.edu
+Sayan Bhattacharya - sbhatt11@uncc.edu
+Mohammad Turab Ali - mohamma@uncc.edu
+
 Dataset - https://www.kaggle.com/c/ga-customer-revenue-prediction/data
 
 Research Question:
